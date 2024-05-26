@@ -1,4 +1,5 @@
 local Config = require('config')
+Config.color_scheme = "Dracula (Official)"
 
 require('utils.backdrops'):set_files():random()
 
